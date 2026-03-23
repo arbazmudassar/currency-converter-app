@@ -10,8 +10,10 @@ A real-time currency converter web application that allows users to convert betw
 * API integration for live exchange rates
 * User-friendly interface
 * Responsive design
-
 ---
+
+## 🔗 Live Demo
+https://arbazmudassar.github.io/currency-converter-app/
 
 ## 🛠️ Tech Stack
 
